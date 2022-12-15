@@ -1,6 +1,6 @@
 var express = require("express");
 var router = express.Router();
-const { signup, login, searchUser } = require("../controllers/userController");
+const { signup, login, searchUser } = require("../controllers/usercontroller");
 const { validateToken } = require("../helpers/auth");
 
 /* GET home page. */
