@@ -2,11 +2,10 @@
   "name": "chat_app_back_end",
   "version": "1.0.0",
   "description": "",
-  "main": "./bin/www",
+ 
   "scripts": {
     "start": "nodemon ./bin/www",
-    "deploy": "serverless deploy",
-    "test": "echo \"Error: no test specified\" && exit 1"
+   
   },
   "keywords": [],
   "author": "",
